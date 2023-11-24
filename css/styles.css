@@ -1,0 +1,21 @@
+/* styles.css */
+
+html {
+  background: rgb(255, 219, 57);
+}
+
+h1 {
+  text-align: center;
+}
+
+.recipe-page {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+#image-bakery {
+  display: block;
+  margin: auto;
+  width: 650px;
+  height: auto;
+}
