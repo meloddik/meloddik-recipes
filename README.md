@@ -1,3 +1,3 @@
-# odin-recipes
+# meloddik-recipes
 
 # this is a website created to provide dessert recipes
